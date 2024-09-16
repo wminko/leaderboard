@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1e4b8f94-8cb6-4b5f-b5a8-94e7e9c68121",
+        "nickname": "Maria smarter",
+        "score": 1500000000,
+        "photoURL": "https://i.ibb.co/FDFzvR4/images.jpg"
+    },
+    {
+        "id": "2f5b8f94-8cb6-4b5f-b5a8-94e7e9c68122",
+        "nickname": "Munisa",
+        "score": 2300000,
+        "photoURL": "https://i.ibb.co/FDFzvR4/images.jpg"
+    },
+    {
+        "id": "3e6c8f94-8cb6-4b5f-b5a8-94e7e9c68123",
+        "nickname": "CameronMaster",
+        "score": 800000,
+        "photoURL": "https://i.ibb.co/42KfKMD/images-1.jpg"
+    },
+    {
+        "id": "4e7d8f94-8cb6-4b5f-b5a8-94e7e9c68124",
+        "nickname": "Mark Mentor",
+        "score": 50000,
+        "photoURL": null
+    }
+]
